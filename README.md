@@ -9,9 +9,9 @@
 ###
 
 <p align="left">👩‍💻Welcome to my GitHub profile! My name is André and I live in Galicia, Spain &#127466;&#127480;<br></p>
-<p align="left">📚I'm currently in my first year of DAM (Multiplatform App Development) I love learning new stuff <br></p>
-<p align="left">✨Bitting my nails since 2024<br></p>
-<p align="left">👀In my free time, I like to practice coding and investigate about new interesting things<br><br></p>
+<p align="left">📚I'm currently in my second year of DAM (Multiplatform App Development) I love learning new stuff <br></p>
+<p align="left">✨Losing my sanity since 2024<br></p>
+<p align="left">👀In my free time, I like to practice coding and investigate about new interesting technologies<br><br></p>
 
 ###
 
