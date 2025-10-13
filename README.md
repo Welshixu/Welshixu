@@ -55,5 +55,3 @@
 <p align="center" style="color:#b57edc; font-style: italic; animation: fadeIn 3s ease-in-out;">
   "Keep building, keep breaking, keep learning."
 </p>
-
-</style>
