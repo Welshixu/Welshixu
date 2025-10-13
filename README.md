@@ -20,7 +20,7 @@
 ###
 
 <p align="left"><b><i>⚡Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=html,css,java,xml,c#,python" />
+<img src="https://skillicons.dev/icons?i=html,css,java,c#,python" />
 <p align="left"><b><i>⚡IDES:</i></b></p>
 <img src="https://skillicons.dev/icons?i=idea,visualstudio" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
