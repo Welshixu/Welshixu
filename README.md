@@ -20,15 +20,15 @@
 ###
 
 <p align="left"><b><i>⚡Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=html,css,java,c#,python,kotlin" />
+<img src="https://skillicons.dev/icons?i=html,css,java,c#,python" />
 <p align="left"><b><i>⚡IDES:</i></b></p>
-<img src="https://skillicons.dev/icons?i=idea,visualstudio" />
+<img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio" />
 <p align="left"><b><i>⚡Frameworks:</i></b></p>
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <p align="left"><b><i>⚡Databases:</i></b></p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <p align="left"><b><i>⚡Operating Systems:</i></b></p>
-<img src="https://skillicons.dev/icons?i=ubuntu,mint,"/>
+<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows,"/>
 
 ###
 
