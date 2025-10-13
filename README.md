@@ -39,7 +39,12 @@
 
 ---
 
-<h2 align="center" style="color:#b57edc; animation: fadeIn 2s ease-in-out;">👁️ Profile Visitors</h2>
+<h2 align="center" style="color:#b57edc; animation: fadeIn 2s ease-in-out;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Welshixu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Welshixu&theme=midnight-purple&hide_border=true&background=00000000" alt="GitHub streak" height="165" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Welshixu&label=Profile%20views&color=8a2be2&style=flat-square" alt="Profile views" />
@@ -51,5 +56,10 @@
   "Keep building, keep breaking, keep learning."
 </p>
 
-
+<!-- 🔮 Simple inline fade-in animation -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
 </style>
