@@ -11,6 +11,8 @@
   👀 In my free time, I enjoy coding, experimenting with new technologies, and exploring digital worlds.<br>
 </p>
 
+<br><br> <!-- ✅ Adds vertical space so the bar clears the image -->
+
 ---
 
 <h2 align="left">🛠️ I've practiced and learned</h2>
@@ -28,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <p align="left"><b><i>⚡ Operating Systems:</i></b></p>
-<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu,mint,nobara,windows" />
 
 ---
 
@@ -48,3 +50,4 @@
 <p align="center">
   <i>"Keep building, keep breaking, keep learning."</i>
 </p>
+
