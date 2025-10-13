@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <p align="left"><b><i>⚡ Operating Systems:</i></b></p>
-<img src="https://skillicons.dev/icons?i=ubuntu,mint,nobara,windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows" />
 
 ---
 
