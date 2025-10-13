@@ -56,10 +56,4 @@
   "Keep building, keep breaking, keep learning."
 </p>
 
-<!-- 🔮 Simple inline fade-in animation -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
 </style>
