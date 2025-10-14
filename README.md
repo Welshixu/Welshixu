@@ -18,7 +18,7 @@
 <h2 align="left" style="color:#b57edc; animation: fadeIn 2s ease-in-out;">🛠️ I've practiced and learned</h2>
 
 <p align="left"><b><i>⚡ Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=html,css,java,kotlin,c#,py" />
+<img src="https://skillicons.dev/icons?i=html,css,java,py,kotlin,c#" />
 
 <p align="left"><b><i>⚡ IDEs:</i></b></p>
 <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio" />
