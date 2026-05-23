@@ -18,19 +18,25 @@
 <h2 align="left" style="color:#b57edc; animation: fadeIn 2s ease-in-out;">🛠️ I've practiced and learned</h2>
 
 <p align="left"><b><i>⚡ Languages:</i></b></p>
-<img src="https://skillicons.dev/icons?i=html,css,java,py,kotlin,c#,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,java,py,kotlin,cs,figma" />
 
 <p align="left"><b><i>⚡ IDEs:</i></b></p>
 <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,androidstudio" />
 
 <p align="left"><b><i>⚡ Frameworks:</i></b></p>
-<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=bootstrap,dotnet" />
+
+<p align="left"><b><i>⚡ Engines:</i></b></p>
+<img src="https://skillicons.dev/icons?i=unity" />
 
 <p align="left"><b><i>⚡ Databases:</i></b></p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,supabase" />
 
 <p align="left"><b><i>⚡ Operating Systems:</i></b></p>
-<img src="https://skillicons.dev/icons?i=ubuntu,mint,windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu,mint,debian,linux,windows" />
+
+<p align="left"><b><i>⚡ Tools:</i></b></p>
+<img src="https://skillicons.dev/icons?i=discord,bots,docker,gradle," />
 
 ---
 
